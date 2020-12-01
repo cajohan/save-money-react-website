@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/save-money-react-website/static/css/main.aef7b634.chunk.css",
+    "main.js": "/save-money-react-website/static/js/main.cf9884fa.chunk.js",
+    "main.js.map": "/save-money-react-website/static/js/main.cf9884fa.chunk.js.map",
+    "runtime-main.js": "/save-money-react-website/static/js/runtime-main.52f5eec8.js",
+    "runtime-main.js.map": "/save-money-react-website/static/js/runtime-main.52f5eec8.js.map",
+    "static/js/2.9eae6480.chunk.js": "/save-money-react-website/static/js/2.9eae6480.chunk.js",
+    "static/js/2.9eae6480.chunk.js.map": "/save-money-react-website/static/js/2.9eae6480.chunk.js.map",
+    "index.html": "/save-money-react-website/index.html",
+    "static/css/main.aef7b634.chunk.css.map": "/save-money-react-website/static/css/main.aef7b634.chunk.css.map",
+    "static/js/2.9eae6480.chunk.js.LICENSE.txt": "/save-money-react-website/static/js/2.9eae6480.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52f5eec8.js",
+    "static/js/2.9eae6480.chunk.js",
+    "static/css/main.aef7b634.chunk.css",
+    "static/js/main.cf9884fa.chunk.js"
+  ]
+}
